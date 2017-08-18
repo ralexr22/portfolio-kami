@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/main" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://ralexr22.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: "UA-104889599-1" 
+  google_analytics: "UA-104889599-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
